@@ -5,6 +5,7 @@
 
 EXPECTED_ARGS=1
 E_BADARGS=65
+OUT_DIR=out
 
 if [ $# -ne $EXPECTED_ARGS ]
 then
@@ -30,9 +31,11 @@ case $1 in # use first argument
 		;;
 esac
 
+mkdir -p ${OUT_DIR}
+
 for lyFile in `ls -1 src/*.ly`
 do
-	lilypond $params -o out $lyFile
+	lilypond $params -o ${OUT_DIR} $lyFile
 done
 
 # In case of pdf which is the same command as eps,
