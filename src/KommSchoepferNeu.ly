@@ -35,7 +35,6 @@ verseOne = \lyricmode {
     \new Lyrics \lyricsto "V1" { \verseOne }
   >>
   \layout { }
-  }
   \midi {
     \context {
       \Score
