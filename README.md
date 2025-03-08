@@ -15,6 +15,7 @@ Dieses Repository enthält gängige Lieder für Dein Kirchenheft.
 - Sanctus
 - Von guten Mächten
 - Wenn das Brot, das wir teilen
+- Wackelkontakt
 
 ## Setup
 
