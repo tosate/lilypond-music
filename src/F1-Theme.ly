@@ -12,7 +12,7 @@ myVoice = \relative c' {
   d8. f16 e4 \tuplet 3/2 { a,8 b c } d as\f a!8.\mf c16\cresc b8. d16 c8 a r4 b8. d16 c8. e16 d8 c r4 c8. e16 d8. f16 e8 c r4 \break
   d8. f16 e4 \tuplet 3/2 { a,8 b c } d as\f \time 2/4 r2 \time 4/4 a8.->\mf a-> a8\tweak direction #UP \marcato a-. b-. c-. b-. a8.-> a-> a8\tweak direction #UP \marcato a-. b-. c-. d-. a8.-> a-> a8\tweak direction #UP \marcato a-. b-. c-. b-. \break
   a8.-> a-> a8\tweak direction #UP \marcato a-. b-. c-. d-. a8.-> a-> a8\tweak direction #UP \marcato a16 a b b c c b b a8.-> a-> a8\tweak direction #UP \marcato a16 a b b c c d d a8.-> a-> a8\tweak direction #UP \marcato a16 a b b c c b b \break
-  a8.-> a-> a8\tweak direction #UP \marcato a16 a b b c c d d a4 ( b8 c a2 ) ~ a1 ( a4 b8 c a4 d ) e1 a,4 ( b8 c a2 ) e'2 ( f ) \break
+  a8.-> a-> a8\tweak direction #UP \marcato a16 a b b c c d d a4 ( b8 c a2 ) ~ a1 a4 ( b8 c a4 d ) e1 a,4 ( b8 c a2 ) e'2 ( f ) \break
   a,4 ( b8 c a4 e ) g1 a4 ( b8 c a4 d,8 f ) e2 ( f ) a4 ( b8 c a4 d ) e1 a,4 ( b8 c a4 g8 f ) e2 ( f ) \break
   a4 ( b8 c a4 e ) g'1 a,8.\mf\< c16 b8. d16 c8 a r4 b8. d16 c8. e16 d8 c r4 c8. e16 d8. f16 e8 c r4 \pageBreak
   d8. f16 e4 \tuplet 3/2 { a,8 b c } d8 as\!\f a!8.\mf\< c16 b8. d16 c8 a r4 b8. d16 c8. e16 d8 c r4 c8. e16 d8. f16 e8 c r4 d8. f16 e4 \tuplet 3/2 { a,8 b c } d8 as\!\f \break
