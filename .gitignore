@@ -1,2 +1,4 @@
 out/
+*.pdf
+*.midi
 .DS_Store
