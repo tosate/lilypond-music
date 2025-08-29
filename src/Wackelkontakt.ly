@@ -9,7 +9,7 @@ myVoice = \relative c'' {
 
 \version "2.24.4"
 \paper {
-  #(set-paper-size "a5" 'landscape)
+  #(set-paper-size "a5landscape")
 }
 
 \header {
