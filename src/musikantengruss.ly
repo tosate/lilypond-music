@@ -42,6 +42,7 @@
                     { c4 r r2 }
                     { c4 r\f c2-> }
                 }
+                \bar "||"
                 \key f \major
                 f4 r \tuplet 3/2 { f f f } f r r2
                 \repeat volta 2 {
