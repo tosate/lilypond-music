@@ -13,6 +13,8 @@
     composer = "Musik: Zimmermann/Miles"
     arranger = "Bearb.: Lothar Gottlöber"
     instrument = "1. Trompete"
+    % Do not display the tagline for this book
+    tagline = ##f
 }
 
 \score {
