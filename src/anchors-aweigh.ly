@@ -28,7 +28,7 @@
                 \time 2/2
                 r4 f8\f f f4 f c'2 a g a b c c4-> g8 g g2-> ~g4 g8 g g2-> ~ g4 g8 g g4 g4 \break
                 g4 r4 r2 \mark \default
-                \repeat volta 2{
+                \repeat volta 2 {
                     c,1\mf e2 g a2. e4 a1 c d2 g, c1 ~c4 c8-> c-> c4-> c-> \break
                     a1 c2 a g a b c fis, a d c b4 r4 g2-> f!-> d-> \mark \default \bar "||" c1 e2 g \break
                     a2. e4 a1 c d2 g, c1 ~c4 c8-> c-> c4-> c-> a1 c2 a \break
