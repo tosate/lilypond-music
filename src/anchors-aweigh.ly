@@ -38,7 +38,7 @@
                     { c4 r4 g2-> }
                     { c4 r r2 }
                 }
-                 \bar "||" \mark \default r2 e,4.->\f e8-. e1-> ~\break
+                \bar "||" \mark \default r2 e,4.->\f e8-. e1-> ~\break
                 e4 e8 e e4 gis-> a-> r4 r2 r2 d,4.-> d8-. d1 ~d4 d8 d d4 fis-> g-> r4 g4.-> g8-. b4-> a g fis g-> f! e dis \break
                 e-> c8 c e4 g c-> r4 r2
                 \key f \major
