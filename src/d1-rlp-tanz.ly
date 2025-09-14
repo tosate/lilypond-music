@@ -1,4 +1,4 @@
-% lilypond -dbackend=eps -dno-gs-load-fonts -dinclude-eps-fonts -o out/d1-rlp-walzer src/d1-rlp-walzer.ly
+% lilypond -dbackend=eps -dno-gs-load-fonts -dinclude-eps-fonts -o out/d1-rlp-tanz src/d1-rlp-tanz.ly
 
 \version "2.24.4"
 
