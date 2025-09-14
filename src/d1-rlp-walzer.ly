@@ -40,6 +40,6 @@
     \layout { }
     \midi {
         \Score
-        tempoWholesPerMinute = #(ly:make-moment 120 3)
+        tempoWholesPerMinute = #(ly:make-moment 132 4)
     }
 }
