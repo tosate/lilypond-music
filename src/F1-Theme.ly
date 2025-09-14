@@ -18,7 +18,7 @@ myVoice = \relative c' {
   d8. f16 e4 \tuplet 3/2 { a,8 b c } d8 as\!\f a!8.\mf\< c16 b8. d16 c8 a r4 b8. d16 c8. e16 d8 c r4 c8. e16 d8. f16 e8 c r4 d8. f16 e4 \tuplet 3/2 { a,8 b c } d8 as\!\f \break
   r1 \key d \major e8. e fis16 g e4 d d b cis2 e8. e fis16 g e4 d d g a2 \key f \major g8. g a16 bes g4 f f d e2 \break
   g8. g a16 bes g4 f f bes c2 \time 2/4 r2 \time 4/4 g8.->\f g-> g8\tweak direction #UP \marcato r2 g8.-> g-> a8\mf\< ~ a2 ~ a bes\! c\< cis\!\ff \break
-  g'8.->\f g-> g8-- r2 g8.-> g-> as8\fp ~ as2 \tuplet 3/2 { g8\mp\< g g } \tuplet 3/2 { g8 g g } g4->\!\ff r4
+  g'8.->\f g-> g8-- r2 g8.-> g-> as8\fp ~ as2 \tuplet 3/2 { g8\mp\< g g } \tuplet 3/2 { g8 g g } g4->\!\ff r4 \bar "|."
 }
 
 \version "2.24.4"
